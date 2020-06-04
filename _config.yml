@@ -1,0 +1,23 @@
+app:
+  title: 'Permixo Ltd'
+  name: 'Permixo Ltd'
+  author: 'niden.net'
+  description: 'Permixo Ltd website'
+  keywords: 'permixo, under construction'
+  email: 'info@permixo.cy'
+
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - serve
+
+
+
